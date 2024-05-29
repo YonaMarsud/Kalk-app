@@ -1,0 +1,44 @@
+body {
+	background-color: #AF8260
+}
+.container {
+	width: 800px;
+	background-color:#DAC0A3;
+	margin: 40px auto;
+	padding: 20px;
+	color: #FEFAF6
+}
+.title{
+	text-align: center;
+}
+.content
+{
+	display: flex;
+	align-items: center;
+}
+.left-content {
+width: 40%;
+margin: 0 auto;
+border-right: 2px solid whitesmoke;
+padding: 0 20px;
+}
+.left-content img {
+	width: 60%;
+}
+.right-content {
+	width: 60%;
+	padding: 20px
+}
+.right-content h2 {
+	text-align: center;
+}
+label, input, button {
+	padding: 8px 20px;
+	margin: 10px auto;
+}
+footer {
+	padding:40px;
+	text-align: center;
+	background-color: whitesmoke;
+	color:#DAC0A3;
+}
